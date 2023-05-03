@@ -1,0 +1,4 @@
+C:\Windows\system32\wsl.exe --distribution Ubuntu --exec /usr/bin/zsh -c "export CMAKE_COLOR_DIAGNOSTICS=ON && export CLION_IDE=TRUE && export JETBRAINS_IDE=TRUE && cd /mnt/e/mycode/c_study/ch2/cmake-build-debug && /usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_C_COMPILER=/opt/intel/oneapi/compiler/2023.1.0/linux/bin/icx -DCMAKE_CXX_COMPILER=/opt/intel/oneapi/compiler/2023.1.0/linux/bin/icpx -G 'CodeBlocks - Unix Makefiles' -S /mnt/e/mycode/c_study/ch2 -B /mnt/e/mycode/c_study/ch2/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /mnt/e/mycode/c_study/ch2/cmake-build-debug

@@ -1,0 +1,1 @@
+/opt/intel/oneapi/compiler/2023.1.0/linux/bin/icx -g   CMakeFiles/ch2.dir/ex2-1.c.o  -o ch2 
