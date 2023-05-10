@@ -1,3 +1,0 @@
-/mnt/e/mycode/c_study/ch2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/mnt/e/mycode/c_study/ch2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/mnt/e/mycode/c_study/ch2/cmake-build-debug/CMakeFiles/ch2.dir
